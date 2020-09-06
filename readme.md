@@ -36,7 +36,7 @@ copy .env.example .env ou cp .env.example .env
 ### Para rodar o servidor, execute o comando:
 
 ````
-node index.js
+yarn start
 ````
 
 ## 📑 Licença
