@@ -33,7 +33,7 @@ copy .env.example .env ou cp .env.example .env
 
 > Obs.: Esse passo, so rode caso for utilizar local, sem docker!
 
-### Para rodar o servidor, execute o comando:
+### Para rodar o script, execute o comando:
 
 ````
 yarn start
